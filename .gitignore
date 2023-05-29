@@ -1,0 +1,8 @@
+_main.c
+avr8-gnu-toolchain
+avrdude
+bootstrap.bat
+gnumake
+attiny13a
+*.elf
+*.hex
